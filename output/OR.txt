@@ -1,0 +1,46 @@
+driver.findElement(By.className("f6F9Be TrMVnc mSAqxd")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_42.png
+driver.findElement(By.id("_CK3nYKmTFrzFz7sPvsSM0AU18")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_33.png
+driver.findElement(By.className("EDblX m8vZ3d")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_36.png
+driver.findElement(By.className("rIbAWc")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_24.png
+driver.findElement(By.className("gXmnc")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_30.png
+driver.findElement(By.className("yO9xPc GTERze a-no-hover-decoration NhRr3b")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_38.png
+driver.findElement(By.className("IC1Ck")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_22.png
+driver.findElement(By.id("reviewDialog")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_44.png
+driver.findElement(By.className("dodTBe")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_18.png
+driver.findElement(By.className("gb_B gb_bd gb_h gb_Af")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_15.png
+driver.findElement(By.className("A8SBwf")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_4.png
+driver.findElement(By.className("hdtb-mitem hdtb-msel")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_23.png
+driver.findElement(By.className("gb_Wd gb_Sa gb_Id")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_14.png
+driver.findElement(By.className("t2vtad")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_25.png
+driver.findElement(By.className("SaJ9Qe")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_45.png
+driver.findElement(By.className("mOt1Pc")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_12.png
+driver.findElement(By.className("WE0UJf")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_27.png
+driver.findElement(By.className("GyAeWb")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_29.png
+driver.findElement(By.className("appbar")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_26.png
+driver.findElement(By.className("action-menu")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_40.png
+driver.findElement(By.id("atvcap")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_28.png
+driver.findElement(By.className("CvDJxb")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_2.png
+driver.findElement(By.className("gb_pa gb_Zd gb_Va gb_qa")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_13.png
+driver.findElement(By.className("mR2gOd pptFR")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_35.png
+driver.findElement(By.className("RNNXgb")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_5.png
+driver.findElement(By.className("a4bIc")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_7.png
+driver.findElement(By.className("gLFyf i4ySpb gsfi")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_9.png
+driver.findElement(By.className("GLcBOb")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_20.png
+driver.findElement(By.className("pR49Ae gsfi")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_8.png
+driver.findElement(By.className("XDyW0e")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_11.png
+driver.findElement(By.className("sfbg")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_3.png
+driver.findElement(By.className("fbar smiUbb")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_43.png
+driver.findElement(By.className("eqAnXb")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_31.png
+driver.findElement(By.className("LnbJhc")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_34.png
+driver.findElement(By.className("yg51vc")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_21.png
+driver.findElement(By.className("iblpc")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_6.png
+driver.findElement(By.id("duf3-78")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_1.png
+driver.findElement(By.className("wYq63b")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_0.png
+driver.findElement(By.className("TCIIWe")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_41.png
+driver.findElement(By.id("rso")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_32.png
+driver.findElement(By.className("e9EfHf")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_17.png
+driver.findElement(By.className("gke0pe")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_19.png
+driver.findElement(By.className("eA0Zlc PZPZlf JX86yc ivg-i")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_37.png
+driver.findElement(By.className("BKRPef M2vV3")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_10.png
+driver.findElement(By.className("MXl0lf mtqGb")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_39.png
+driver.findElement(By.className("main")); : C:\Users\Home\eclipse-workspace\seleniumfirst\output_16.png
