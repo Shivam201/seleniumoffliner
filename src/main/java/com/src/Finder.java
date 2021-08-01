@@ -535,14 +535,14 @@ public class Finder {
     }
 
     /**
-     * Find all the attributes of Elemtns
+     * Find all the attributes of Elements
      * 
      * @param driver
      * @param element
      * @param tagmusthave this tag is already there.. if there is any other tag
      *                    apart from this than only element need to be checked.
      */
-    public static ArrayList findallAttributes(WebDriver driver, WebElement element, String tagmusthave) {
+    public static ArrayList<String> findallAttributes(WebDriver driver, WebElement element, String tagmusthave) {
 
         JavascriptExecutor executor = (JavascriptExecutor) driver;
         Object elementAttributes = executor.executeScript(
