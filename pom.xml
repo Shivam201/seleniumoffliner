@@ -2,12 +2,12 @@
 
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <scm>
-		<connection>scm:git:https://github.com/shivam201/OSSRH-71341.git</connection>
-		<developerConnection>scm:git:https://github.com/shivam201/OSSRH-71341.git</developerConnection>
-		<tag>HEAD</tag>
-		<url>https://github.com/shivam201/OSSRH-71341</url>
-	</scm>
- 
+    <connection>scm:git:https://github.com/shivam201/OSSRH-71341.git</connection>
+    <developerConnection>scm:git:https://github.com/shivam201/OSSRH-71341.git</developerConnection>
+    <tag>HEAD</tag>
+    <url>https://github.com/shivam201/OSSRH-71341</url>
+  </scm>
+
   <description>project is for creating the Object Repository for any WebPage for helping tester to generate scrit</description>
   <modelVersion>4.0.0</modelVersion>
 
@@ -67,6 +67,25 @@
       <url>http://www.gnu.org/licenses/gpl.txt</url>
     </license>
   </licenses>
+
+  <developers>
+    <developer>
+      <id>Shivam</id>
+      <name>Shivam Maralay</name>
+      <email>shivam201@gmail.com</email>
+      <organization></organization>
+      <organizationUrl></organizationUrl>
+      <roles>
+        <role>sdet</role>
+        <role>developer</role>
+      </roles>
+      <timezone>+3</timezone>
+
+      <properties>
+        <picUrl></picUrl>
+      </properties>
+    </developer>
+  </developers>
 
   <build>
     <pluginManagement>
@@ -151,7 +170,7 @@
                 <goal>attach-descriptor</goal>
               </goals>
             </execution>
-          </executions>                   
+          </executions>
           <configuration>
             <reportPlugins>
               <plugin>
@@ -167,10 +186,10 @@
                       <report>issue-tracking</report>
                     </reports>
                   </reportSet>
-                </reportSets>                               
-              </plugin>                       
+                </reportSets>
+              </plugin>
             </reportPlugins>
-          </configuration> 
+          </configuration>
         </plugin>
       </plugins>
     </pluginManagement>
